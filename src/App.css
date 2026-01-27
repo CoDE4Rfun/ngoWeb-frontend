@@ -1,0 +1,18 @@
+#root{
+    width: 100vw;
+    height: 100vh;
+    /* overflow-y: auto; */
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+p, span {
+  font-weight: 400;
+}
